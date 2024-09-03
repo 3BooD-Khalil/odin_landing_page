@@ -30,9 +30,9 @@ header nav a{
     color: white;
     text-decoration: none;
 }
-header nav a :hover{
+/* header nav a :hover{
     color: aquamarine;
-}
+} */
 
 .hero{
     padding: 40px 220px;
@@ -120,4 +120,43 @@ header nav a :hover{
     font-size: 22px;
     font-weight: 700;
     text-align: end;
+}
+
+.signup{
+    padding: 80px 220px;
+}
+
+.signup .box{
+    background-color: #3882f6;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-between;
+    padding: 46px 100px;
+    align-items: center; 
+}
+
+/* .signup .box .text{
+
+} */
+
+.signup .box .text h3{
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+
+.signup .box .text p{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.signup .box .button a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 22px;
+    border: 2px #ffffff solid;
+    border-radius: 7px;
+    padding: 4px 32px;
+    font-weight: 500;
 }
