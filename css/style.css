@@ -160,3 +160,13 @@ header nav a{
     padding: 4px 32px;
     font-weight: 500;
 }
+
+footer{
+    padding: 24px 220px;
+    background-color: #1f2937;
+    text-align: center;
+}
+footer p{
+    font-size: 14px;
+    color: #e5e7eb;
+}
