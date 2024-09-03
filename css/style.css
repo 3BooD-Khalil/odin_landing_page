@@ -104,3 +104,20 @@ header nav a :hover{
 .info .container p{
     font-size: 16px;
 }
+
+.quote{
+    background-color:#e5e7eb ;
+    padding: 100px 300px;
+}
+
+.quote p{
+    font-size: 32px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote h4{
+    font-size: 22px;
+    font-weight: 700;
+    text-align: end;
+}
